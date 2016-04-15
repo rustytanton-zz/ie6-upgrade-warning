@@ -4,13 +4,6 @@
   "private": true,
   "homepage": "https://github.com/perfectsense/ie6-upgrade-warning",
   "main" : [
-  	"ie6/background_browser.gif",
-  	"ie6/browser_chrome.gif",
-  	"ie6/browser_firefox.gif",
-  	"ie6/browser_ie.gif",
-  	"ie6/browser_opera.gif",
-  	"ie6/browser_safari.gif",
-  	"ie6/index.html",
   	"ie6/warning.js"
   ]
 }
